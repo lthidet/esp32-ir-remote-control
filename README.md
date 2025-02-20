@@ -3,7 +3,7 @@
 
 ## ⭐ What this repository is made for
 
-This project enables an ESP32 microcontroller to respond to IR remote signals and invoke corresponding REST API endpoints. When the ESP32 receives an IR command, it sends a request to a Python server that executes a specific action—ranging from controlling VLC for media playback to handling custom home automation tasks.
+This project enables an ESP32 microcontroller to respond to IR remote signals and invoke corresponding REST API endpoints. When the ESP32 receives an IR command, it sends a request to a Python server that executes a specific action, ranging from controlling VLC for media playback to managing customized home automation tasks.
 
 The repository includes:
 - **Basic Script & Server**: A simple example mapping each remote button to a specific API endpoint.
